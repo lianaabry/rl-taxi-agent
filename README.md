@@ -44,10 +44,15 @@ Reward system:
 📁 Project Structure
 rl-taxi-agent/
 │
-├── train_agent.py        # Train the Q-learning agent
+
+├── train_agent.py # Train the Q-learning agent
+
 ├── evaluate_agent.py     # Test the trained agent
+
 ├── q_table.npy           # Saved trained model
+
 ├── requirements.txt      # Dependencies
+
 └── README.md
 
 ⚙️ Installation
